@@ -10,6 +10,7 @@ I am learning Python from scratch aiming towards AI/ML roles.
 - **Day 1 - Basics**
 - **Day 2 - Control Structures**
 - **Day 3 - Collections**
+- **Day 4 - Funtions, Modules and Exceptions**
 
 ---
 
@@ -18,13 +19,14 @@ I am learning Python from scratch aiming towards AI/ML roles.
 - Python Basics
 - Loops and Conditions
 - Lists, Tuples, Sets, Dictionaries
+- Functions and recursions
 
 ---
 
 ## 📅 Timeline
 
 - **Started On**: 24th April 2025
-- **Updated On**: 26th April 2025
+- **Updated On**: 06th May 2025
 
 ---
 
