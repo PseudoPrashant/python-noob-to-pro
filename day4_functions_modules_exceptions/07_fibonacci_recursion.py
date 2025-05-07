@@ -16,6 +16,10 @@ try:
     num = int(input("Enter a positive integer: "))
     if num <= 0:
         raise ValueError("Input must be a positive integer.")
-    print(f"The {num}th Fibonacci number is: {fibonacci(num)}")
+    print(f"The first {num} Fibonacci numbers are:")
+    for i in range(1, num + 1):
+        print(fibonacci(i), end=' ')
+
+
 except ValueError as e:
     print(f"Error: {e}")
